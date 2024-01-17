@@ -4,6 +4,8 @@ for i in name:
 
 for k in range(90,100):
     print (k+1)
+else:
+    print ("no k")
 
 z=10
 while z>0:
