@@ -11,8 +11,7 @@ def sortfiles(ext, mainDir, destDir):
     for file in files:
         os.rename(mainDir+ "\\"+ file , destDir + "\\" + str(n) + "." + ext  )
         n= n+1
-        
-    
+         
 
 sortfiles(ext, mainDir)
 
