@@ -1,6 +1,5 @@
 import pypdf
 
-from pypdf import PdfMerger 
 hello = "C:\\Users\\katte\\Documents\\Assets\\Python\\mergePDF\\hello.pdf"
 hiee = "C:\\Users\\katte\\Documents\\Assets\\Python\\mergePDF\\hiee.pdf"
 
